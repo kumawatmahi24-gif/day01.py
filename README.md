@@ -1,1 +1,10 @@
 # day01.py
+name = "Alex"
+age = 20
+course = "Computer Science"
+goal = "Software Developer"
+
+print(name)
+print(age)
+print(course)
+print(goal)
