@@ -1,4 +1,4 @@
-# day01.py
+# day1github.py
 name = "Alex"
 age = 20
 course = "Computer Science"
